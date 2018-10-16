@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Arknoid-Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Arknoid_Game_jar</output-path>
+    <root id="archive" name="Arknoid-Game.jar">
+      <element id="module-output" name="Arknoid-Game" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Ark src/biuoop-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
