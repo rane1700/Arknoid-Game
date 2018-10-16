@@ -1,4 +1,4 @@
 # Arknoid-Game
 The famous Arknoid game
 
-Navigate to out\artifacts\Arknoid_Game_jar to find the game JAR.
+You can use the 'Arknoid-Game.jar' to view the final product
